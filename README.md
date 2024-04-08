@@ -17,7 +17,7 @@ To get started with Project_FinTracker, follow these steps:
 
 1. **Clone the Repository**: Clone the Project_FinTracker repository to your local machine using the following command:
    ```
-   https://github.com/NipunMagotra/Project_FinTracker
+   https://github.com/ManikKaul/Project_FinTracker
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install dependencies using npm or yarn:
